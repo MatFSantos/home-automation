@@ -55,6 +55,8 @@ Foram feitas diversas funções para controle do MQTT, mas as mais importantes s
 
 Com isso, foram concluídos os requisitos do projeto, além de conseguir um resultado satisfatório com relação a usabilidade do sistema. O projeto tem opções de depuração e de extensão posterior.
 
+**OBS:** Para utilização, faça um arquivo com nome ``credenciais.h`` e copie o que está em ``credenciais.example.h`` para esse novo arquivo e informe as credenciais de wifi e do servidor MQTT.
+
 # Links para acesso ao vídeo
 
 [Link de vídeo ensaio](https://youtu.be/TBU2JrAHNL0)
