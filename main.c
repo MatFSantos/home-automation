@@ -23,7 +23,6 @@
 // WIFI credentials
 #include "credenciais.h"
 
-
 /** pin definitions */
 #define LM35 26                       /* Y axis */
 #define LED_PIN CYW43_WL_GPIO_LED_PIN /* LED of the rp pico w board */
