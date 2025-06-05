@@ -57,4 +57,4 @@ Com isso, foram concluídos os requisitos do projeto, além de conseguir um resu
 
 # Links para acesso ao vídeo
 
-[Link de vídeo ensaio]()
+[Link de vídeo ensaio](https://youtu.be/TBU2JrAHNL0)
